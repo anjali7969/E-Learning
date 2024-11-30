@@ -1,2 +1,2 @@
-# E-Learning
-E-Learning platform ( Using Flutter, Node.js and MongoDB)
+Development and Implementation of an E-Learning Platform
+This project focuses on creating an E-Learning platform using Flutter for a smooth user experience, MongoDB for secure and scalable data management, and Node.js for the backend. The goal is to provide an accessible, interactive, and personalized learning experience, particularly addressing the challenges in Nepal's education system, such as limited resources and rural-urban divides. Features like personalized learning paths, real-time feedback, and progress tracking aim to enhance student engagement, improve learning outcomes, and support teachers in providing timely assistance.
